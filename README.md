@@ -1,9 +1,8 @@
-Hi
 =============================================================================================================================
 Machine learning enthusiast
 ---------------------------
 
-* ✉️  You can contact me at [filipwaszak68@gmail.com](mailto:filipwaszak68@gmail.com)
+*  [filipwaszak68@gmail.com](mailto:filipwaszak68@gmail.com)
 ### Skills
 
 
