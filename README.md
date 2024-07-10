@@ -1,5 +1,5 @@
 
-Machine learning enthusiast
+DevOps/AI enthusiast
 ---------------------------
 
 *  [filipwaszak68@gmail.com](mailto:filipwaszak68@gmail.com)
