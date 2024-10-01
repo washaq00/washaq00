@@ -1,8 +1,6 @@
 
 DevOps/AI enthusiast
 ---------------------------
-CURRENT PROJECT:
-- WORKING ON DEPLOYMENT OF NEXTCLOUD FOR EACH CUSTOMER WITH S3 BUCKET ASSIGNED, ALL AUTOMATED WITH ARGOCD APPLICATIONSET WITH GENERATOR
 
 *  [filipwaszak68@gmail.com](mailto:filipwaszak68@gmail.com)
 ### Skills
